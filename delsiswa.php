@@ -1,5 +1,7 @@
 <?php
 
+//https://github.com/fslakbar/final-project-pwl2016/invitations
+
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
